@@ -1,0 +1,29 @@
+msgid "Custom Popup Settings"
+msgstr "Ustawienia wyskakującego okna"
+
+msgid "Popup Text"
+msgstr "Tekst wyskakującego okna"
+
+msgid "Privacy Policy Link Text"
+msgstr "Tekst linku do polityki prywatności"
+
+msgid "Accept Button Text"
+msgstr "Tekst przycisku akceptacji"
+
+msgid "Image URL"
+msgstr "Adres URL obrazu"
+
+msgid "Image Scale"
+msgstr "Skala obrazu"
+
+msgid "Image Vertical Offset"
+msgstr "Pionowe przesunięcie obrazu"
+
+msgid "Privacy Policy Page"
+msgstr "Strona polityki prywatności"
+
+msgid "Help"
+msgstr "Pomoc"
+
+msgid "Use [privacy-policy] to insert the privacy policy link and [accept] to insert the accept button."
+msgstr "Użyj [privacy-policy], aby wstawić link do polityki prywatności i [accept], aby wstawić przycisk akceptacji."

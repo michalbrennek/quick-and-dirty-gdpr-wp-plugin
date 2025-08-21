@@ -1,0 +1,29 @@
+msgid "Custom Popup Settings"
+msgstr "Custom Popup Settings"
+
+msgid "Popup Text"
+msgstr "Popup Text"
+
+msgid "Privacy Policy Link Text"
+msgstr "Privacy Policy Link Text"
+
+msgid "Accept Button Text"
+msgstr "Accept Button Text"
+
+msgid "Image URL"
+msgstr "Image URL"
+
+msgid "Image Scale"
+msgstr "Image Scale"
+
+msgid "Image Vertical Offset"
+msgstr "Image Vertical Offset"
+
+msgid "Privacy Policy Page"
+msgstr "Privacy Policy Page"
+
+msgid "Help"
+msgstr "Help"
+
+msgid "Use [privacy-policy] to insert the privacy policy link and [accept] to insert the accept button."
+msgstr "Use [privacy-policy] to insert the privacy policy link and [accept] to insert the accept button."
